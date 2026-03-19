@@ -12,6 +12,4 @@ The project explores key astrophysical concepts using observational and simulate
 - Hubble diagram calculations  
 - EUCLID and DES survey data analysis  
 
----
 
-## 📁 Project Structure
